@@ -1,0 +1,37 @@
+.links {
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+    padding: 10px;
+    opacity: 0.7;
+    transition: 0.5s;
+}
+.search-listing {
+    margin-top: 60px;
+    padding: 60px 5vw;
+    width: 100%;
+    height: auto;
+ 
+}
+.product-container {
+    flex-wrap: wrap;
+}
+.product-cart {
+    width: 30%;
+    margin: 20px 0;
+    border: 10px solid #716969 !important;
+    border-radius: 1%;
+}
+.product-name {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'lato', sans-serif;
+    text-transform: capitalize;
+    font-size: 50px;
+}
+.bgg {
+    background-color: #ce8e02;
+    transition: 0.5s;
+}
